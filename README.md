@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning $\color{#89DDFF}\textsf{Python for Algo Trading, PCB Design, Rocket Telemetry, and GUI}$
 
-- 👯 I’m looking to collaborate on $\color{#FFD700}\textsf{Open-source quantitative finance tools or cryptocurrentcy deverlopment}$
+- 👯 I’m looking to collaborate on $\color{#FFD700}\textsf{Open-source quantitative finance tools or cryptocurrentcy development}$
 
 - 💬 Ask me about $\color{#FF69B4}\textsf{Pure math, fibonacci, linear algebra, C++, JavaScript}$
 
