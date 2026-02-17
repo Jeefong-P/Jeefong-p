@@ -1,7 +1,6 @@
 <div align="center">
 
 # Day 1354 of calling elon musk an asshole
-### I'm fong but you can call me Golf.
 
 
 <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="left" width="120" alt="Bobacat">
@@ -30,7 +29,7 @@
   <a href="mailto:jelfheckbert@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-- ⚡ Fun fact $\color{#FF4500}\textsf{I love programming, but i do a lot better on math}$
+- ⚡ Fun fact $\color{#FF4500}\textsf{I love programming, but i do a lot better in math}$
 - 🗣️ **Languages I Speak:**
   <p align="left">
     <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
