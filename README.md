@@ -29,7 +29,7 @@
   <a href="mailto:jelfheckbert@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-- ⚡ Fun fact $\color{#FF4500}\textsf{I love programming, but i do a lot better in math}$
+
 - 🗣️ **Languages I Speak:**
   <p align="left">
     <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
