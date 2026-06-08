@@ -11,7 +11,7 @@
 
 
 
-  I was a former competitive programmer. retired in Grade 10 and wiped all of my programming accounts for personal reasons. After a 3 year break, I'm now in university and fully motivated to get back on my route. During my break, I focused heavily on the $\color{#7DF9FF}\textsf{Mathematical Aspects of Trading and Financial Valuation}$ (check my other repositories for details).
+go ask chatGPT
 
 <br>
 <br>
