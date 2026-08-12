@@ -1,0 +1,11 @@
+{
+  "name": "github-bossfight",
+  "version": "1.0.0",
+  "description": "Renders your GitHub contribution grid as an animated boss-fight SVG for a profile README.",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "test": "MOCK=1 node generate.js"
+  },
+  "license": "MIT"
+}
