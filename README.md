@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jude bellingham will be the greatest english player to ever steps on the field of football
+# hi
 
 
 <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="left" width="120" alt="Bobacat">
@@ -11,7 +11,7 @@
 
 
 
-go ask chatGPT
+hi
 
 <br>
 <br>
