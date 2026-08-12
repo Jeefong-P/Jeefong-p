@@ -1,0 +1,55 @@
+name: Generate Boss Fight
+
+on:
+  schedule:
+    # Regenerate every day at 00:00 UTC. Change this cron to run more/less often.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate dark boss-fight SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          PALETTE: dark
+          OUTPUT: dist/bossfight-dark.svg
+        run: node generate.js
+
+      - name: Generate light boss-fight SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          PALETTE: light
+          OUTPUT: dist/bossfight-light.svg
+        run: node generate.js
+
+      - name: Push generated SVGs to the output branch
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          REPO: ${{ github.repository }}
+        run: |
+          cd dist
+          git init -q
+          git checkout -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Update boss fight SVG"
+          git push -q --force "https://x-access-token:${GH_PAT}@github.com/${REPO}.git" output:output
