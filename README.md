@@ -17,13 +17,8 @@ Another hi
 <br>
 
 
-- 🔭 I’m currently working on $\color{#BD00FF}\textsf{Mathematical modeling for Algorithmic Trading strategies}$
+- 🔭 I’m currently working on $\color{#BD00FF}\textsf{Nothing}$
 
-- 🌱 I’m currently learning $\color{#89DDFF}\textsf{Python for Algo Trading, dynamics, PCB Design, Rocket Telemetry, and Chemistry for air pollution}$
-
-- 👯 I’m looking to collaborate on $\color{#FFD700}\textsf{Open-source quantitative finance tools or cryptocurrentcy development}$
-
-- 💬 Ask me about $\color{#FF69B4}\textsf{Anything about math, stochastic calculus, linear algebra, C++, JavaScript, All chemistry about air}$
 
 - 📫 How to reach me:
   <a href="mailto:jelfheckbert@gmail.com">
