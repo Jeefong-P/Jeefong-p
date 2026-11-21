@@ -37,7 +37,7 @@ Another hi
 
 <div align="center"> 
   <h3>Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,matlab,rust,html,css,js,react,git,vscode,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,matlab,rust,js,react,git,vscode,&theme=dark" />
 </div>
 
 <br/>
