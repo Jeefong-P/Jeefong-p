@@ -35,9 +35,15 @@ Another hi
 
 <br/>
 
-<div align="center"> 
-  <h3>Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,matlab,rust,js,react,git,vscode,&theme=dark" />
+<div align="center"> 
+  <h3>Languages and Tools</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,matlab,rust,js,react,git,vscode&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pylance-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br/>
